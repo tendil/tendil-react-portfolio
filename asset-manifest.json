@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tendil-react-portfolio/static/css/main.c6aea74a.css",
-    "main.js": "/tendil-react-portfolio/static/js/main.f5603fcf.js",
+    "main.js": "/tendil-react-portfolio/static/js/main.2c092951.js",
     "static/media/hero-dark.jpg": "/tendil-react-portfolio/static/media/hero-dark.37f2556d620821979e99.jpg",
     "static/media/hero-light.jpg": "/tendil-react-portfolio/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
     "service-worker.js": "/tendil-react-portfolio/service-worker.js",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/tendil-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tendil-react-portfolio/index.html",
     "main.c6aea74a.css.map": "/tendil-react-portfolio/static/css/main.c6aea74a.css.map",
-    "main.f5603fcf.js.map": "/tendil-react-portfolio/static/js/main.f5603fcf.js.map"
+    "main.2c092951.js.map": "/tendil-react-portfolio/static/js/main.2c092951.js.map"
   },
   "entrypoints": [
     "static/css/main.c6aea74a.css",
-    "static/js/main.f5603fcf.js"
+    "static/js/main.2c092951.js"
   ]
 }
